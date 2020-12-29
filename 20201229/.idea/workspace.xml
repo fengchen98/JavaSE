@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a72ba091-dc25-4854-97ff-cb809d9d4241" name="Default Changelist" comment="" />
+    <list default="true" id="a72ba091-dc25-4854-97ff-cb809d9d4241" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +16,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1mHYYluodb4FLlHpxgVlCmBz4dx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,7 +29,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
     <configuration name="TestDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -50,6 +57,8 @@
       <option name="presentableId" value="Default" />
       <updated>1609152032909</updated>
       <workItem from="1609152036022" duration="10417000" />
+      <workItem from="1609204136604" duration="433000" />
+      <workItem from="1609204666528" duration="481000" />
     </task>
     <servers />
   </component>
@@ -65,25 +74,45 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="723" y="348" key="#com.intellij.tools.ToolEditorDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609152089134" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1609164030362">
+    <state x="774" y="275" key="FileChooserDialogImpl" timestamp="1609204732356">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609164030362" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1609164030362">
+    <state x="774" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1609204732356" />
+    <state width="1877" height="261" key="GridCell.Tab.0.bottom" timestamp="1609205159509">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609164030362" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1609164030362">
+    <state width="1877" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609205159509" />
+    <state width="1877" height="261" key="GridCell.Tab.0.center" timestamp="1609205159509">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609164030362" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1609164030362">
+    <state width="1877" height="261" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609205159509" />
+    <state width="1877" height="261" key="GridCell.Tab.0.left" timestamp="1609205159508">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609164030362" />
-    <state x="461" y="161" key="SettingsEditor" timestamp="1609154694936">
+    <state width="1877" height="261" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609205159508" />
+    <state width="1877" height="261" key="GridCell.Tab.0.right" timestamp="1609205159509">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="161" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1609154694936" />
+    <state width="1877" height="261" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609205159509" />
+    <state x="461" y="161" key="SettingsEditor" timestamp="1609204577121">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="161" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1609204577121" />
+    <state x="640" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1609204694018">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609204694018" />
+    <state x="334" y="97" key="new project wizard" timestamp="1609205151208">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="97" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1609205151208" />
+    <state x="636" y="366" width="716" height="308" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1609204933691">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="636" y="366" width="716" height="308" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609204933691" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1609204922168">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1609204922168" />
   </component>
 </project>
