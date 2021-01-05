@@ -44,6 +44,8 @@ public class MyLinkedList {
         System.out.println();
     }
 
+    
+
     //找到最后一个节点
     public Node findLastNode(){
         if (this.head==null){
