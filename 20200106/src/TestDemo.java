@@ -1,3 +1,6 @@
+import java.lang.reflect.Array;
+import java.util.Arrays;
+
 /**
  * @Author:FC
  * @Date:2021/1/6
@@ -61,7 +64,6 @@ public class TestDemo {
         myDoubleLinkedList.display();
         myDoubleLinkedList.clear();
         myDoubleLinkedList.display();
-
 
 
     }
