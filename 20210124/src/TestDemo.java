@@ -24,7 +24,7 @@ public class TestDemo {
         myCircularQueue.deQueue();
         System.out.println(myCircularQueue.Front());
 
-        
+
     }
 
 
