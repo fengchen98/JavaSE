@@ -169,10 +169,7 @@ public class BinaryTree {
             if (cur.right!=null){
                 queue.offer(cur.right);
             }
-            String s="sasda";
-            int i=0;
-            char[] chars=s.toCharArray();
-            chars[i].
+
         }
 
     }
